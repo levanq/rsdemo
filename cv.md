@@ -34,4 +34,4 @@ The Creative Javascript Course
 <br>https://developedbyed.com/p/the-creative-javascript-course
 
 ### English
-Fluent
+*Fluent*
